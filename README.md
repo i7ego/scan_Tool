@@ -47,8 +47,8 @@ A Python-based port scanner with a colorful CLI interface that supports scanning
 
 1. **Clone or download the repository:**
    ```bash
-   git clone <repository-url>
-   cd scanports
+   git clone https://github.com/i7ego/scan_Tool.git
+   cd scan_Tool
    ```
 
 2. **Install required dependencies:**
