@@ -6,6 +6,7 @@ A Python-based port scanner with a colorful CLI interface that supports scanning
 
 ## Features
 
+- ⚡ **Very fast scanning** - Scans ~1000 ports in ~11 seconds with multi-threaded scanning
 - 🔍 Scan IP port ranges (1-65535 or custom range)
 - 🌐 Scan URL ports with progress bar
 - 📌 Scan single port on IP or URL
@@ -158,7 +159,7 @@ Port Number of http = 80
 
 ## Author
 
-**Ahmed Hagag** - scan_Tool 2026
+**Ahmed Hagag** - Port Scanner Tool 2026
 
 ## License
 
