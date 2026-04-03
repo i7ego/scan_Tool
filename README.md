@@ -158,7 +158,7 @@ Port Number of http = 80
 
 ## Author
 
-**Ahmed Hagag** - Port Scanner Tool 2026
+**Ahmed Hagag** - scan_Tool 2026
 
 ## License
 
